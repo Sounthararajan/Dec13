@@ -11,3 +11,7 @@ git stash
 
 git pull
 
+git log
+
+git log --oneline
+
