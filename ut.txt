@@ -5,3 +5,5 @@ git commit
 git push
 
 git revert
+
+git pull
